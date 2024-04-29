@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">k2024_04_21_liveData_volley</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="image_button">Show image</string>
+    <string name="load_all_images">Load image metadata</string>
+
+</resources>
